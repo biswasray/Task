@@ -1,0 +1,4 @@
+#Sun Sep 20 18:54:35 IST 2020
+base.0=E\:\\javapro\\Task\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\34
+path.0=classes.dex
+renamed.0=classes.dex
